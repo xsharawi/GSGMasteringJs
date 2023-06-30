@@ -13,6 +13,7 @@
 ---
 
 ## Coding Exercises
+
 [Compound Assignment With Augmented Multiplication][ex1]
 ### my solution:
 ```js
@@ -25,12 +26,14 @@
     b *= 3;
     c *= 10;
 ```
+---
 [Concatenating Strings with the Plus Equals Operator][ex2]
 ### my solution:
 ```js
     let myStr = 'This is the first sentence.';
     myStr += ' This is the second sentence.';
 ```
+---
 [Use Bracket Notation to Find the Nth-to-Last Character in a String][ex3]
 ### my solution:
 ```js
@@ -40,6 +43,7 @@
     // Only change code below this line
     const secondToLastLetterOfLastName = lastName[lastName.length - 2]; // Change this line
 ```
+---
 [Profile Lookup][ex4]
 ### my solution:
 ```js
@@ -68,6 +72,7 @@
 
     lookUpProfile("Akira", "likes");
 ```
+---
 [Copy Array Items Using slice()][ex5]
 ### my solution:
 ```js
@@ -80,6 +85,7 @@
     // Only change code above this line
     console.log(forecast(['cold', 'rainy', 'warm', 'sunny', 'cool', 'thunderstorms']));
 ```
+---
 [Combine Arrays with the Spread Operator][ex6]
 ### my solution:
 ```js
@@ -91,6 +97,7 @@
 
     console.log(spreadOut());
 ```
+---
 
 
 [ex1]: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication
