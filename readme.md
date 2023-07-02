@@ -21,4 +21,8 @@ folder structure:
 
 [***day 1***][day1]
 
+[***day 2***][day2]
+
 [day1]: https://github.com/xsharawi/GSGMasteringJs/blob/master/day1.md
+
+[day2]: https://github.com/xsharawi/GSGMasteringJs/blob/master/day2.md

@@ -85,7 +85,7 @@ document.getElementsByTagName('h2')[0].append(' and love' )
 
 ## Coding Exercises
 
-[Compound Assignment With Augmented Multiplication][ex1]
+## [Compound Assignment With Augmented Multiplication][ex1]
 ### my solution:
 ```js
     let a = 5;
@@ -98,14 +98,14 @@ document.getElementsByTagName('h2')[0].append(' and love' )
     c *= 10;
 ```
 ---
-[Concatenating Strings with the Plus Equals Operator][ex2]
+## [Concatenating Strings with the Plus Equals Operator][ex2]
 ### my solution:
 ```js
     let myStr = 'This is the first sentence.';
     myStr += ' This is the second sentence.';
 ```
 ---
-[Use Bracket Notation to Find the Nth-to-Last Character in a String][ex3]
+## [Use Bracket Notation to Find the Nth-to-Last Character in a String][ex3]
 ### my solution:
 ```js
     // Setup
@@ -115,7 +115,7 @@ document.getElementsByTagName('h2')[0].append(' and love' )
     const secondToLastLetterOfLastName = lastName[lastName.length - 2]; // Change this line
 ```
 ---
-[Profile Lookup][ex4]
+## [Profile Lookup][ex4]
 ### my solution:
 ```js
     // deleted the setup for this one because it was super long
@@ -144,7 +144,7 @@ document.getElementsByTagName('h2')[0].append(' and love' )
     lookUpProfile("Akira", "likes");
 ```
 ---
-[Copy Array Items Using slice()][ex5]
+## [Copy Array Items Using slice()][ex5]
 ### my solution:
 ```js
     function forecast(arr) {
@@ -157,7 +157,7 @@ document.getElementsByTagName('h2')[0].append(' and love' )
     console.log(forecast(['cold', 'rainy', 'warm', 'sunny', 'cool', 'thunderstorms']));
 ```
 ---
-[Combine Arrays with the Spread Operator][ex6]
+## [Combine Arrays with the Spread Operator][ex6]
 ### my solution:
 ```js
     function spreadOut() {
@@ -168,6 +168,8 @@ document.getElementsByTagName('h2')[0].append(' and love' )
 
     console.log(spreadOut());
 ```
+
+
 ---
 
 
