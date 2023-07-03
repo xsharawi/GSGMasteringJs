@@ -5,6 +5,8 @@
 
 # [JavaScript: From First Steps to Professional][js1]
 
+## Strings
+
 ---
 
 # Coding examples
@@ -12,6 +14,15 @@
 ---
 
 # Coding Exercises
+
+## Exercise 
+
+### which data type is each of these values?
+- false: boolean
+- "true": string 
+- document.title: string
+- "some string".length: number
+- null: object
 
 ## [Return a Value from a Function with Return][ex1]
 

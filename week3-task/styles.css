@@ -1,0 +1,45 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  background-color: gainsboro;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title {
+  color:black;
+  font-size: 48px;
+  text-align: center;
+  margin: 40px;
+}
+
+
+.err{
+  display: none;
+}
+
+.shownerr{
+  display: block;
+  color:red;
+  background-color: yellow;
+}
+ul{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+li{
+  border: 2px solid red;
+  padding: 10px;
+  border-radius: 5%;
+  align-items: center;
+  align-self: center;
+  display: inline-block;
+  margin: 20px;
+}
+.characterLI{
+  flex: 0 1 calc(20% - 8px);
+
+}
