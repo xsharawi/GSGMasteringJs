@@ -23,6 +23,10 @@ folder structure:
 
 [***day 2***][day2]
 
+[***week 3 / day 3 task***][task1]
+
 [day1]: https://github.com/xsharawi/GSGMasteringJs/blob/master/day1.md
 
 [day2]: https://github.com/xsharawi/GSGMasteringJs/blob/master/day2.md
+
+[task1]: https://github.com/xsharawi/GSGMasteringJs/tree/master/week3-task
