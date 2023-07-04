@@ -7,6 +7,26 @@
 
 ## Strings
 
+- `.length` for telling us how long is a string
+- strings are 0 indexed arrays
+- `.indexOf` can find the first accurance of a character or the starting index if we send a substring or -1 if isn't not there
+- `.includes` to find the string has this substring
+- `startsWith` to find if a string starts wtih a substring
+- `+` to concatenate strings
+- `toLowerCase` returns the string as a lower case
+
+## Operators
+
+- `===` checks for values and types
+
+## Expressions
+
+- an expressions resolves to a value
+- null vs undefined: null i want it that way, undefined declared but not given value
+- 
+
+
+
 ---
 
 # Coding examples
@@ -18,11 +38,53 @@
 ## Exercise 
 
 ### which data type is each of these values?
+
 - false: boolean
 - "true": string 
 - document.title: string
 - "some string".length: number
 - null: object
+
+## Exercise 
+
+### use our new string superpowers to:
+1. add your last name in the player listing
+2. retrieve the first "T" in the page title
+3. answer whether the page title contains the string "JavaScript"
+4. capitalize the heading "Tic Tac Toe"
+
+```js
+1.
+  document.getElementById("p1-name").innerHTML =document.getElementById("p1-name").innerHTML  + " sharawi" 
+
+```
+
+```js
+2.
+  document.title[document.title.indexOf("T")]
+```
+
+```js
+3.
+  if( document.title.includes("JavaScript") ){
+      console.log("yes it does include JavaScript")
+  }else{
+      console.log("no it doesn't")
+  }
+```
+
+```js
+4.
+  document.getElementsByTagName('h1')[0].innerHTML =  document.getElementsByTagName('h1')[0].innerHTML.toUpperCase()
+
+```
+
+## Exercise 
+
+### Declare & assign variables to remember:
+- Your name `let name = "sharawi";`
+- The combined age of your parents `let age = 30 + 30;`
+- The #board element on the page `let board = document.getElementById('board');`
 
 ## [Return a Value from a Function with Return][ex1]
 
