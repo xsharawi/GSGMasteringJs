@@ -23,7 +23,6 @@
 
 - an expressions resolves to a value
 - null vs undefined: null i want it that way, undefined declared but not given value
-- 
 
 
 
