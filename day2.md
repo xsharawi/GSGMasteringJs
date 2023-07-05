@@ -31,6 +31,7 @@
 
 
 
+
 ---
 
 # Coding examples
@@ -48,6 +49,7 @@
 - document.title: string
 - "some string".length: number
 - null: object
+---
 
 ## Exercise 
 
@@ -82,6 +84,7 @@
   document.getElementsByTagName('h1')[0].innerHTML =  document.getElementsByTagName('h1')[0].innerHTML.toUpperCase()
 
 ```
+---
 
 ## Exercise 
 
@@ -89,6 +92,8 @@
 - Your name `let name = "sharawi";`
 - The combined age of your parents `let age = 30 + 30;`
 - The #board element on the page `let board = document.getElementById('board');`
+
+---
 
 ## [Return a Value from a Function with Return][ex1]
 
