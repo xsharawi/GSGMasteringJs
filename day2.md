@@ -24,6 +24,11 @@
 - an expressions resolves to a value
 - null vs undefined: null i want it that way, undefined declared but not given value
 
+## Arrays
+- `indexOf` works the same way as in strings
+- `.includes` works the same way as in strings
+- array dont care what types of values are in them and can have multiple types in the same array
+
 
 
 ---
