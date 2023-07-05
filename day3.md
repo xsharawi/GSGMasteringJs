@@ -7,6 +7,8 @@
 
 
 ## Arrays
+- `push` adds to the same array
+- `concat` adds to a new copy of the array
 
 
 ---
