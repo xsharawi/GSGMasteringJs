@@ -29,7 +29,29 @@ function outer(){
 
 # Coding Exercises
 
+# [gsg tasks][gsg]
+## [Question 1:][gsg1]
+### my solution 
+[create counter](https://github.com/xsharawi/GSGMasteringJs/blob/master/week%202/day%202%20tasks/createCounter.js)
+
+## [Question 2:][gsg1]
+### my solution 
+[average](https://github.com/xsharawi/GSGMasteringJs/blob/master/week%202/day%202%20tasks/average.js)
+
+## [Question 3:][gsg1]
+### my solution 
+[powerOf](https://github.com/xsharawi/GSGMasteringJs/blob/master/week%202/day%202%20tasks/power.js)
+
+## [Question 4:][gsg1]
+### my solution 
+[reverse functions](https://github.com/xsharawi/GSGMasteringJs/blob/master/week%202/day%202%20tasks/combo.js)
+
 ---
 
 
 [js2]: https://frontendmasters.com/courses/javascript-hard-parts-v2/
+[gsg]: https://github.com/orjwan-alrajaby/gsg-expressjs-backend-training-2023/blob/main/learning-sprint-1/week2-day2-tasks/tasks.md
+[gsg1]: https://github.com/orjwan-alrajaby/gsg-expressjs-backend-training-2023/blob/main/learning-sprint-1/week2-day2-tasks/tasks.md#question-1
+[gsg2]: https://github.com/orjwan-alrajaby/gsg-expressjs-backend-training-2023/blob/main/learning-sprint-1/week2-day2-tasks/tasks.md#question-2
+[gsg3]: https://github.com/orjwan-alrajaby/gsg-expressjs-backend-training-2023/blob/main/learning-sprint-1/week2-day2-tasks/tasks.md#question-3
+[gsg4]: https://github.com/orjwan-alrajaby/gsg-expressjs-backend-training-2023/blob/main/learning-sprint-1/week2-day2-tasks/tasks.md#question-4
