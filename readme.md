@@ -19,7 +19,7 @@ the courses are in order:
 
 folder structure: 
 
-[***day 1***][day1]
+[***1***][day1]
 
 [***day 2***][day2]
 
