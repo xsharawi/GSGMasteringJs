@@ -19,14 +19,10 @@ the courses are in order:
 
 folder structure: 
 
-[***1***][day1]
+[***week 1***][week1]
 
-[***day 2***][day2]
+[***week 2***][week2]
 
-[***week 3 / day 3 task***][task1]
+[week1]: https://github.com/xsharawi/GSGMasteringJs/tree/master/week%201
 
-[day1]: https://github.com/xsharawi/GSGMasteringJs/blob/master/day1.md
-
-[day2]: https://github.com/xsharawi/GSGMasteringJs/blob/master/day2.md
-
-[task1]: https://github.com/xsharawi/GSGMasteringJs/tree/master/week3-task
+[week2]: https://github.com/xsharawi/GSGMasteringJs/tree/master/week%202
