@@ -1,4 +1,4 @@
-# tracking for week 2 day 2!!
+# tracking for week 2 day 3!!
 
 # lessons summary
 
