@@ -71,7 +71,6 @@ console.log(hofNormalFunc3("Meow")()); // logs "Meow Meow Meow!" once
 ### Build a function called preserveThis that takes a function as input and returns a new arrow function that behaves the same way as the input function but preserves the original this context when used as a method of an object.
 
 ```js
-// NOTE: couldn't figure this ask for help later
 // Example object
 const obj = {
   name: 'John',
@@ -80,10 +79,12 @@ const obj = {
   }
 };
 
-const preserveThis = (func) =>  (...args) => {func.apply(this , args)}
+const preserveThis = (func,con) => {
+  return (...args)=>{ func.call(con,args)}
+}
 
 // Wrap the greet function using preserveThis
-const preservedGreet = preserveThis(obj.greet);
+const preservedGreet = preserveThis(obj.greet,obj);
 
 // Call the wrapped function as a method of the object
 preservedGreet('Hello'); // Output: "Hello, John!"
